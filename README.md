@@ -11,5 +11,5 @@ Situação do projeto:
   5.Graficos de aplicacao de recursos entre as ações ; e
   6.Análise das aplicação de recursos x Valor atual das Ações.
   
- Deficuldades encontradas:
+ Dificuldades encontradas:
   Não era familiarizado com as funções Dax quando montei o primeiro Dashboard, nas areas dos cartoes de informação. Contudo, fui atrás das informções das funções Dax para minimizar a quantidade de memória utilizada pelas informações dos cartões e finalizei o trabalho. Uma informação que faltou ao trabalho foi um logo de empresa atrás do painel que é indicado pela literatura.
